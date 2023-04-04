@@ -2,7 +2,7 @@
 
 My name is Danyil and I love programming.
 
-- 🔭 I’m currently working on [App for learning new languages](https://github.com/Char-Noir/DictonaryApp) and a few other small projects to make life easier for others and ourselves([Converter of minecraft schematics to excel](https://github.com/Char-Noir/minecraft_schematic_to_excel) and [Controlled SlideShow](https://github.com/Char-Noir/python_controlled_slideshow) ).
+- 🔭 I’m currently working on [App for learning new languages](https://github.com/Char-Noir/DictonaryApp) and a few other small projects to make life easier for others and myself([Converter of minecraft schematics to excel](https://github.com/Char-Noir/minecraft_schematic_to_excel) and [Controlled SlideShow](https://github.com/Char-Noir/python_controlled_slideshow) ).
 - 🌱 I’m currently learning MAUI, XAML, system analysis and data analysis.
 - 👯 I'm looking for opportunities to collaborate on the projects above or any project that is interesting or challenging enough. If you're not sure, don't hesitate to contact me.
 - 🤔 I’m looking for help with [Controlled SlideShow](https://github.com/Char-Noir/python_controlled_slideshow). I still haven't found a way to display video without pre-processing.
